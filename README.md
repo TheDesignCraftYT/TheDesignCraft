@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center">Hello there <img width="29px" height="29px" src="https://github.com/TheDesignCraftYT/TheDesignCraft/blob/main/assets/wave.gif"></h2>
+  <h2 align="center">Hello there <img width="29px" height="29px" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/wave.gif"></h2>
 </p>
 
 <p align="center" >  
@@ -46,7 +46,7 @@ Aktuell habe ich leider keinen offiziellen eigenen Discord Server.
 
 <p>
     <a href="https://java.com/">
-      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraft/blob/main/assets/languages/java.png"/>
+      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/languages/java.png"/>
     </a>
 </p>
 
@@ -54,10 +54,10 @@ Aktuell habe ich leider keinen offiziellen eigenen Discord Server.
 
 <p>
     <a href="https://github.com/DV8FromTheWorld/JDA">
-      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraft/blob/main/assets/frameworks/jda.png"/>
+      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/frameworks/jda.png"/>
     </a>
     <a href="https://github.com/orgs/qos-ch/repositories">
-       <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraft/blob/main/assets/frameworks/slf4j-with-logback.png"/>
+       <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/frameworks/slf4j-with-logback.png"/>
     </a>
 </p>
 
@@ -65,13 +65,13 @@ Aktuell habe ich leider keinen offiziellen eigenen Discord Server.
 
 <p>
     <a href="https://www.jetbrains.com/de-de/idea/">
-      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraft/blob/main/assets/software-and-tools/intellij.png"/>
+      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/software-and-tools/intellij.png"/>
     </a>
     <a href="https://maven.apache.org/">
-       <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraft/blob/main/assets/software-and-tools/maven.png"/>
+       <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/software-and-tools/maven.png"/>
     </a>
     <a href="https://www.windows.com/">
-       <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraft/blob/main/assets/software-and-tools/windows10.png"/>
+       <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/software-and-tools/windows10.png"/>
     </a>
 </p>
 

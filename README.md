@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center">Hello there <img width="29px" height="29px" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/wave.gif"></h2>
+  <h2 align="center">Hallöchen <img width="29px" height="29px" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/wave.gif"></h2>
 </p>
 
 <p align="center" >  
@@ -27,7 +27,7 @@ Auf meiner GitHub Seite gibts aktuell leider noch nicht sonderlich viel zu sehen
 <br><br>
 • 😄 Pronomen: `er`/`he`/`him`
 <br>
-• 🔭 Aktuell arbeite ich an mehreren [Discord](https://discord.com) Bots in [Java](https://java.com) mit der [JDA](https://github.com/DV8FromTheWorld/JDA)
+• 🔭 Aktuell arbeite ich an mehreren [Discord](https://discord.com) Bots in [Java](https://java.com) mit der [JDA](https://github.com/DV8FromTheWorld/JDA).
 <br>
 • 📫 Wie du mich erreichen kannst: Wenn du irgendwelche Fragen hast, schreibe mir über Discord:
 <br><br>

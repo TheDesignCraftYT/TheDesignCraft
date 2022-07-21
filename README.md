@@ -35,7 +35,7 @@ Auf meiner GitHub Seite gibts aktuell leider noch nicht sonderlich viel zu sehen
 <br>
 <p>
   <a href="https://discord.com/users/810769870521106464">
-    <img src="https://discord.c99.nl/widget/theme-1/731080543503908895.png">
+    <img src="https://discord.c99.nl/widget/theme-1/810769870521106464.png">
   </a>
 </p>
 

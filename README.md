@@ -92,3 +92,5 @@ Aktuell habe ich leider keinen offiziellen eigenen Discord Server.
       <img src="https://github-readme-stats.vercel.app/api?username=TheDesignCraftYT&theme=algolia&show_icons=true"/>
     </a>
 </p>
+
+Inspiriert von @BlockyDotJar

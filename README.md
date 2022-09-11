@@ -42,7 +42,21 @@ Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auc
 
 https://discord.gg/mYKK4BwGxe
 
-<iframe src="https://discord.com/widget?id=1007268691689341030&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<script type="text/javascript" src="http://discord.deliriousdrunkards.com/discord.min.js"></script>
+<script type="text/javascript">
+    discordWidget.init({
+        serverId: '51143782082543616',
+        title: 'Discord Widget Title',
+        join: false,
+        alphabetical: false,
+        theme: 'dark',
+        hideChannels: ['Channel Name 1', 'Channel Name 2'],
+        showAllUsers: true,
+        allUsersDefaultState: true
+    });
+    discordWidget.render();
+</script>
+<div class="discord-widget"></div>
 
 <br>
 

@@ -40,7 +40,14 @@ Auf meiner GitHub Seite gibts aktuell leider noch nicht sonderlich viel zu sehen
 
 Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auch gerne meinem Discord Server [**D**evelopers **O**uter **S**pace](https://discord.gg/mYKK4BwGxe)" joinen:
 
-<img src="https://discordapp.com/api/guilds/1007268691689341030/widget.png?style=banner4" alt="Discord Banner 4"/>
+<br>
+<p>
+  <a href="https://discord.gg/mYKK4BwGxe">
+    <img src="https://discordapp.com/api/guilds/1007268691689341030/widget.png?style=banner2">
+  </a>
+</p>
+
+<img src="https://discordapp.com/api/guilds/1007268691689341030/widget.png?style=banner2" alt="Discord Banner 2"/>
 
 <br>
 ### Sprachen

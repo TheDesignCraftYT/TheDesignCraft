@@ -43,13 +43,6 @@ Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auc
 https://discord.gg/mYKK4BwGxe
 
 <br>
-<p>
-  <a href="https://discord.gg/mYKK4BwGxe">
-    <img src="https://discord.com/widget?id=1007268691689341030&theme=dark">
-  </a>
-</p>
-
-<br>
 ### Sprachen
 
 <p>

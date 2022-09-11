@@ -42,7 +42,7 @@ Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auc
 <br>
 <p>
   <a href="https://discord.gg/mYKK4BwGxe">
-    <img src="https://discordapp.com/api/guilds/1007268691689341030/widget.png?style=banner2">
+    <img src="https://discordapp.com/api/guilds/1007268691689341030/widget.png?style=banner3">
   </a>
 </p>
 

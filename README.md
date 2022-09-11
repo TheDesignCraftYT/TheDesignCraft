@@ -31,8 +31,6 @@ Auf meiner GitHub Seite gibts aktuell leider noch nicht sonderlich viel zu sehen
 <br>
 • 📫 Wie du mich erreichen kannst: Wenn du irgendwelche Fragen hast, schreibe mir über Discord: [`TheDesignCraft#7886`](discord://@me/users/810769870521106464)
 
-<a href="discord://@me/users/810769870521106464" target="_blank"><i class="fab fa-2x fa-discord"></i></a>
-
 <br>
 <p>
   <a href="https://discord.com/users/810769870521106464">
@@ -44,7 +42,12 @@ Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auc
 
 https://discord.gg/mYKK4BwGxe
 
-<iframe src="https://discord.com/widget?id=1007268691689341030&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<br>
+<p>
+  <a href="https://discord.gg/mYKK4BwGxe">
+    <img src="https://discord.com/widget?id=1007268691689341030&theme=dark">
+  </a>
+</p>
 
 <br>
 ### Sprachen

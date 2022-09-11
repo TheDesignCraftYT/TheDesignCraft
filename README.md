@@ -45,8 +45,8 @@ Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auc
     <img src="https://discordapp.com/api/guilds/1007268691689341030/widget.png?style=banner3">
   </a>
 </p>
-
 <br>
+
 ### Sprachen
 
 <p>

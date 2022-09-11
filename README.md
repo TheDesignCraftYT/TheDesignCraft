@@ -38,9 +38,9 @@ Auf meiner GitHub Seite gibts aktuell leider noch nicht sonderlich viel zu sehen
   </a>
 </p>
 
-Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auch gerne meinem Discord Server joinen:
+Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auch gerne meinem Discord Server [**D**evelopers **O**uter **S**pace](https://discord.gg/mYKK4BwGxe)" joinen:
 
-https://discord.gg/mYKK4BwGxe
+<img src="https://discordapp.com/api/guilds/1007268691689341030/widget.png?style=banner4" alt="Discord Banner 4"/>
 
 <br>
 ### Sprachen

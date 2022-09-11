@@ -29,9 +29,7 @@ Auf meiner GitHub Seite gibts aktuell leider noch nicht sonderlich viel zu sehen
 <br>
 • 🔭 Aktuell arbeite ich an mehreren [Discord](https://discord.com) Bots in [Java](https://java.com) mit der [JDA](https://github.com/DV8FromTheWorld/JDA).
 <br>
-• 📫 Wie du mich erreichen kannst: Wenn du irgendwelche Fragen hast, schreibe mir über Discord: `TheDesignCraft#7886`
-	
-<a href="discord://@me/users/810769870521106464" target="_blank" rel="noopener">TheDesignCraft#7886</a>
+• 📫 Wie du mich erreichen kannst: Wenn du irgendwelche Fragen hast, schreibe mir über Discord: [`TheDesignCraft#7886`](discord://@me/users/810769870521106464)
 
 <br>
 <p>
@@ -40,7 +38,12 @@ Auf meiner GitHub Seite gibts aktuell leider noch nicht sonderlich viel zu sehen
   </a>
 </p>
 
-Aktuell habe ich leider keinen offiziellen eigenen Discord Server.
+Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auch gerne meinem Discord Server joinen:
+
+https://discord.gg/mYKK4BwGxe
+
+<iframe src="https://discord.com/widget?id=1007268691689341030&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 <br>
 
 ### Sprachen

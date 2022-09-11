@@ -31,7 +31,7 @@ Auf meiner GitHub Seite gibts aktuell leider noch nicht sonderlich viel zu sehen
 <br>
 • 📫 Wie du mich erreichen kannst: Wenn du irgendwelche Fragen hast, schreibe mir über Discord: `TheDesignCraft#7886`
 	
-<a href="discord://@me/users/810769870521106464" target="_blank" rel="noopener">`TheDesignCraft#7886`</a>
+<a href="discord://@me/users/810769870521106464" target="_blank" rel="noopener">TheDesignCraft#7886</a>
 
 <br>
 <p>

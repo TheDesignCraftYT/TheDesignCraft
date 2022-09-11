@@ -95,4 +95,4 @@ https://discord.gg/mYKK4BwGxe
     </a>
 </p>
 
-Inspiriert von @BlockyDotJar
+Inspiriert von [@BlockyDotJar](https://github.com/BlockyDotJar)

@@ -44,8 +44,9 @@ Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auc
 
 https://discord.gg/mYKK4BwGxe
 
-<br>
+<iframe src="https://discord.com/widget?id=1007268691689341030&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
+<br>
 ### Sprachen
 
 <p>

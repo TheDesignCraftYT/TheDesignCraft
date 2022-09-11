@@ -38,8 +38,7 @@ Auf meiner GitHub Seite gibts aktuell leider noch nicht sonderlich viel zu sehen
   </a>
 </p>
 
-Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auch gerne meinem Discord Server [**D**evelopers **O**uter **S**pace](https://discord.gg/mYKK4BwGxe)" joinen:
-
+Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auch gerne meinem Discord Server "[**D**evelopers **O**uter **S**pace](https://discord.gg/mYKK4BwGxe)" joinen:
 <br>
 <p>
   <a href="https://discord.gg/mYKK4BwGxe">

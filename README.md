@@ -51,6 +51,15 @@ Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auc
     <a href="https://java.com/">
       <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/languages/java.png"/>
     </a>
+    <a href="https://www.w3.org/">
+      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/languages/html.png"/>
+    </a>
+    <a href="https://www.w3.org/">
+      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/languages/css.png"/>
+    </a>
+    <a href="https://www.javascript.com/">
+      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/languages/javascript.png"/>
+    </a>
 </p>
 
 ### Frameworks
@@ -69,6 +78,12 @@ Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auc
 <p>
     <a href="https://www.jetbrains.com/de-de/idea/">
       <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/software-and-tools/intellij.png"/>
+    </a>
+    <a href="https://www.jetbrains.com/de-de/webstorm/">
+      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/software-and-tools/webstorm.png"/>
+    </a>
+    <a href="https://code.visualstudio.com/">
+      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/raw/main/assets/software-and-tools/vs-code.png">
     </a>
     <a href="https://maven.apache.org/">
        <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/software-and-tools/maven.png"/>

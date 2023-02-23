@@ -103,10 +103,10 @@ Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auc
 
 <p>
    <a href="https://github.com/TheDesignCraftYT?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDesignCraftYT&theme=algolia&langs_count=10"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDesignCraftYT&theme=transparent&langs_count=10"/>
     </a>
   <br>
     <a href="https://github.com/TheDesignCraftYT?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api?username=TheDesignCraftYT&theme=algolia&show_icons=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=TheDesignCraftYT&theme=transparent&show_icons=true"/>
     </a>
 </p>

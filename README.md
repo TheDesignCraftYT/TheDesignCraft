@@ -101,6 +101,8 @@ Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auc
 
 ### Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDesignCraftYT)](https://github.com/TheDesignCraftYT)
+
 <p>
    <a href="https://github.com/TheDesignCraftYT?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDesignCraftYT&theme=algolia"/>

@@ -21,13 +21,11 @@
 ### Über mich
 Hallöchen! Schön, dass du hier bist.
 <br>
-Mein "Name" ist TheDesignCraft und ich bin Hobby-Developer.
-<br>
-Auf meiner GitHub Seite gibts aktuell leider noch nicht sonderlich viel zu sehen, da fast alle meiner Repositories Privat sind.
+Mein Name ist Emil, oder auch TheDesignCraft und ich bin Hobby-Entwickler.
 <br><br>
 • 😄 Pronomen: `er`/`he`/`him`
 <br>
-• 🔭 Aktuell arbeite ich an mehreren [Discord](https://discord.com) Bots in [Java](https://java.com) mit der [JDA](https://github.com/DV8FromTheWorld/JDA).
+• 🔭 Aktuell arbeite ich an mehreren meiner Repositories, darunter [DBS](https://github.com/TheDesignCraftYT/DBS), [DiscordActivityLevelBot](https://github.com/TheDesignCraftYT/DiscordActivityLevelBot) und mehreren privaten Repos.
 <br>
 • 📫 Wie du mich erreichen kannst: Wenn du irgendwelche Fragen hast, schreibe mir über Discord: [`TheDesignCraft#7886`](https://discord.com/users/810769870521106464)
 

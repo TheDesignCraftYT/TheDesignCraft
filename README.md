@@ -1,110 +1,43 @@
 <p>
-  <h2 align="center">Hallöchen <img width="29px" height="29px" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/wave.gif"></h2>
+  <h3 align="right"><a href="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/README-EN.md"><img alt="Static Badge" src="https://img.shields.io/badge/English%20version-green?style=for-the-badge&label=%F0%9F%87%AC%F0%9F%87%A7"></a></h3>
+  <h1 align="center">TheDesignCraftYT</h1>
 </p>
 
 <p align="center" >  
-  <img src=https://komarev.com/ghpvc/?username=TheDesignCraftYT alt=TheDesignCraftYT> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&label=Java&labelColor=orange">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Developer-gray?style=for-the-badge&label=Web&labelColor=blue">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/thedesigncraftyt?label=Follower&style=for-the-badge">
+  <img alt="TheDesignCraftYT" src="https://komarev.com/ghpvc/?username=TheDesignCraftYT&style=for-the-badge&color=orange"> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/TheDesignCraftYT">
-     <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  </a>
-    <a href="https://java.com/">
-      <img src="https://forthebadge.com/images/badges/made-with-java.svg"/>
-  </a>
-    <a href="https://git-scm.com/">
-      <img src="https://forthebadge.com/images/badges/uses-git.svg"/>
-  </a>
-</p>
-
-### Über mich
-Hallöchen! Schön, dass du hier bist.
-<br>
-Mein Name ist Emil, oder auch TheDesignCraft und ich bin Hobby-Entwickler.
-<br><br>
-• 😄 Pronomen: `er`/`he`/`him`
-<br>
-• 🔭 Aktuell arbeite ich an mehreren meiner Repositories, darunter [DBS](https://github.com/TheDesignCraftYT/DBS), [DiscordActivityLevelBot](https://github.com/TheDesignCraftYT/DiscordActivityLevelBot) und mehreren privaten Repos.
-<br>
-• 📫 Wie du mich erreichen kannst: Wenn du irgendwelche Fragen hast, schreibe mir über Discord: [`TheDesignCraft#7886`](https://discord.com/users/810769870521106464)
-
-<p>
-  <a href="https://discord.com/users/810769870521106464">
-    <img src="https://discord.c99.nl/widget/theme-1/810769870521106464.png">
-  </a>
-</p>
-
-Für Support und um einfach generell mit mir in Kontakt zu treten, kannst du auch gerne meinem Discord Server "[**D**evelopers **O**uter **S**pace](https://discord.gg/mYKK4BwGxe)" joinen:
-<br>
-<p>
-  <a href="https://discord.gg/mYKK4BwGxe">
-    <img src="https://discordapp.com/api/guilds/1007268691689341030/widget.png?style=banner3">
-  </a>
-</p>
-
-### Sprachen
-
-<p>
-    <a href="https://java.com/">
-      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/languages/java.png"/>
-    </a>
-    <a href="https://www.w3.org/">
-      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/languages/html.png"/>
-    </a>
-    <a href="https://www.w3.org/">
-      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/languages/css.png"/>
-    </a>
-    <a href="https://www.javascript.com/">
-      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/languages/javascript.png"/>
-    </a>
-</p>
-
-### Frameworks
-
-<p>
-    <a href="https://github.com/DV8FromTheWorld/JDA">
-      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/frameworks/jda.png"/>
-    </a>
-    <a href="https://github.com/orgs/qos-ch/repositories">
-       <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/frameworks/slf4j-with-logback.png"/>
-    </a>
-</p>
-
-### Software und Tools
-
-<p>
-    <a href="https://www.jetbrains.com/de-de/idea/">
-      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/software-and-tools/intellij.png"/>
-    </a>
-    <a href="https://www.jetbrains.com/de-de/webstorm/">
-      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/software-and-tools/webstorm.png"/>
-    </a>
-    <a href="https://code.visualstudio.com/">
-      <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/raw/main/assets/software-and-tools/vs-code.png">
-    </a>
-    <a href="https://maven.apache.org/">
-       <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/software-and-tools/maven.png"/>
-    </a>
-    <a href="https://www.windows.com/">
-       <img width="60" height="60" src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/main/assets/software-and-tools/windows10.png"/>
-    </a>
-</p>
-
-### Github Trophäen
-
-<a href="https://github.com/TheDesignCraftYT">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=TheDesignCraftYT&column=8&theme=discord&no-frame=true&no-bg=true"/>
+<a href="https://github.com/TheDesignCraftYT?tab=repositories">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedesigncraftyt&layout=donut-vertical&langs_count=10&theme=dark"/>
 </a>
 
-### Stats
+## 💬 Über mich
+Ich bin Hobby-Programmierer und beschäftige mich viel mit allen möglichen Arten an Hardware und Software.
+Seit April 2021 programmiere ich immer wieder mit Java und Anfang 2023 habe ich mich in HTML, CSS und JavaScript eingearbeitet.
+Mir macht es Spraß, kreative Lösungen für die verschiedensten Probleme zu finden und ich verfolge gerne die neuesten technologischen Entwicklungen.
+Ein paar meiner Projekte, die, wie man rechts sehen kann, zum Großteil in Java programmiert sind, kann man hier auf meinem GitHub-Account finden.
 
-<p>
-   <a href="https://github.com/TheDesignCraftYT?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDesignCraftYT&theme=dark&langs_count=10"/>
-    </a>
-  <br>
-    <a href="https://github.com/TheDesignCraftYT?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api?username=TheDesignCraftYT&theme=dark&show_icons=true"/>
-    </a>
-</p>
+## 🌟 Aktuelles
+Aktuell arbeite ich an einem kleinen privaten Projekt mit ein paar Freunden. Vielleicht gibts das ja auch bald hier zu sehen. 👀
+
+## 🚀 Programmiersprachen
+- <img src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/73205636af33a97c3eb06d6b97536d4cd1bfa2dd/assets/languages/java.png" alt="Java Logo" width="20" height="20"> [**Java**](https://java.com/) (Seit April 2021)
+- <img src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/73205636af33a97c3eb06d6b97536d4cd1bfa2dd/assets/languages/html.png" alt="HTML Logo" width="20" height="20"> <img src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/73205636af33a97c3eb06d6b97536d4cd1bfa2dd/assets/languages/css.png" alt="CSS Logo" width="20" height="20"> <img src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/73205636af33a97c3eb06d6b97536d4cd1bfa2dd/assets/languages/javascript.png" alt="JS Logo" width="20" height="20"> **Web-Sprachen** ([HTML](https://www.w3.org/), [CSS](https://www.w3.org/), [JS](https://www.javascript.com/)) (Seit Anfang 2023)
+
+## 🛠️ Frameworks
+- <img src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/73205636af33a97c3eb06d6b97536d4cd1bfa2dd/assets/frameworks/jda.png" alt="JDA Logo" width="20" height="20"> [**JDA** (JavaDiscordAPI)](https://github.com/DV8FromTheWorld/JDA)
+- <img src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/blob/73205636af33a97c3eb06d6b97536d4cd1bfa2dd/assets/frameworks/slf4j-with-logback.png" alt="SLF4JwithLogback Logo" width="20" height="20"> [**SLF4J mit Logback**](https://github.com/orgs/qos-ch/repositories)
+
+## 🛠️ Tools
+- <img src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/raw/main/assets/software-and-tools/intellij.png" alt="" width="20" height="20"> [**IntelliJ IDEA Ultimate**](https://www.jetbrains.com/de-de/idea/)
+- <img src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/raw/main/assets/software-and-tools/webstorm.png" alt="" width="20" height="20"> [**Webstorm**](https://www.jetbrains.com/de-de/webstorm/)
+- <img src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/raw/main/assets/software-and-tools/vs-code.png" alt="" width="20" height="20"> [**VS Code**](https://code.visualstudio.com/)
+- <img src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/raw/main/assets/software-and-tools/maven.png" alt="" width="20" height="20"> [**Maven**](https://maven.apache.org/)
+- <img src="https://github.com/TheDesignCraftYT/TheDesignCraftYT/raw/main/assets/software-and-tools/windows10.png" alt="" width="20" height="20"> [**Windows 10**](https://www.windows.com/)
+
+## 📬 Kontakt
+- **E-Mail:** mail@thedesigncraft.de
+- **Discord:** [@thedesigncraft](https://discord.com/users/810769870521106464/)
